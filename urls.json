@@ -1,3 +1,9 @@
 {
-    
+    "M.I.A.": ["https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU?si=fd134ca15b704462"],
+    "Skyrim": ["https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4?si=d9b3ea970f2946d6"],
+    "D&D": {
+        "Battle": ["https://open.spotify.com/playlist/17Pepj8bhXD9wL0hpQXYfA?si=f2b47a86ef4e4775"],
+        "Ambient": ["https://open.spotify.com/playlist/1OXml2b3f2iZD0VLPSwpdc?si=e360b5685f8745f8"],
+        "Fantasy": ["https://open.spotify.com/playlist/4ehe9MtkReOf78esurIAFT?si=a4560fa726ee4ee9"]
+    }
 }
